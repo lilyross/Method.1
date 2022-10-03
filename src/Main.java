@@ -4,7 +4,7 @@ public class Main {
         checkLeapYear(2022);
         System.out.println(" Задание 2 ");
         getDeviceLink(1, 2015);
-        System.out.println(" Задание 3 ");
+        System.out.println(" Задание 3.1 ");
         int deliveryDays =numberOfDeliveryDays(95);
         System.out.println(" Потребуется дней на доставку: " + deliveryDays);
     }
